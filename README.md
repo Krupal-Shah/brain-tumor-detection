@@ -1,6 +1,9 @@
 # brain-tumor-detection
 A machine learning model to detect brain tumors
 
+### To build the mode
+1. Run the `brain-tumor.ipynb` script
+
 ### To run the docker image locally:
 1. Build docker image:
     $ docker build —t image_name .
